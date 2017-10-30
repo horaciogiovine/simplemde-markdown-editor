@@ -6,7 +6,7 @@
 		"Wes Cossick <https://wescossick.com>"
 	],
 	"description": "A simple, beautiful, and embeddable JavaScript Markdown editor.",
-	"main": ["src/js/simplemde.js", "src/css/simplemde.css"],
+	"main": ["dist/simplemde.min.js", "dist/simplemde.min.css"],
 	"keywords": [
 		"embeddable",
 		"markdown",
